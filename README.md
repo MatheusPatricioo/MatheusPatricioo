@@ -1,7 +1,6 @@
-Hi! World, eu sou o Andrew Raphael.
-👔 Hoje trabalhando com Construc 3 / Jogos 2D educacionais
-📓 Cursando Análise e Desenvolvimento de Sistemas
-🖥️ Desenvolvendo e Aprendendo linguagens FRONT-END
+Hi, eu sou o Matheus Patiricio.<br>
+👔 Hoje trabalhando com Construc 3 / Jogos 2D educacionais<br>
+📓 Cursando engenharia de computação no Centro Federal de educação tecnologica
 
 <div align="center">
   <a href="https://github.com/MatheusPatricioo">

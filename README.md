@@ -1,5 +1,5 @@
 Hi, eu sou o Matheus Patiricio.<br>
-👔 Hoje trabalhando com Construc 3 / Jogos 2D educacionais<br>
+👔 Hoje trabalho com Construc 3 / Jogos 2D educacionais<br>
 📓 Cursando engenharia de computação no Centro Federal de educação tecnologica
 
 <div align="center">

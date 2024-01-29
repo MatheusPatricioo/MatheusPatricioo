@@ -1,6 +1,6 @@
 ## Hi, eu sou o Matheus Patricio!<br>
 👔 Hoje trabalho com Construc 3 / Jogos 2D educacionais<br>
-📓 Estou cursando engenharia de computação no Centro Federal de educação tecnologica
+📓 Estou cursando engenharia de computação no Centro Federal de educação tecnologica.
 
 <div>
     <a href="https://github.com/MatheusPatricioo/github-readme-stats">

@@ -4,10 +4,10 @@
 
 <div>
     <a href="https://github.com/MatheusPatricioo/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusPatricioo&theme=transparent" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusPatricioo&theme=transparent" />
 </a>
 <a href="https://github.com/MatheusPatricioo/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusPatricioo&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusPatricioo&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
  </div>
 

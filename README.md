@@ -1,4 +1,4 @@
-## Hi, eu sou o Matheus Patricio!<br>
+## Olá, eu sou o Matheus Patricio!<br>
 👔 Atualmente trabalho com Construc 3 / Jogos 2D educacionais<br>
 📓 Estou cursando engenharia de computação no Centro Federal de educação tecnologica.
 

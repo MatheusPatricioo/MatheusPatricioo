@@ -1,9 +1,9 @@
 #  Hi, I'm Matheus Patricio!<br>
-👔 I currently work with Construct 3 / Educational 2D Games <br>
+👔 I currently work with Construct 3 / Educational 2D Games. <br>
 📓 I'm studying computer engineering at the Federal Center for Technological Education.
 
 ## Olá, eu sou o Matheus!<br>
-👔 Atualmente trabalho com Construc 3 / Jogos 2D educacionais<br>
+👔 Atualmente trabalho com Construc 3 / Jogos 2D educacionais.<br>
 📓 Estou cursando engenharia de computação no Centro Federal de educação tecnologica.
 
 <div>

@@ -1,11 +1,12 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Patricio!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusPatricioo&color=yellow" alt="Profile views" /> </p>
-👔 I currently work with Construct 3 / Educational 2D Games. <br>
-📓 I'm studying computer engineering at the Federal Center for Technological Education.
+
+👔 I currently work as a Fullstack Developer at EDUTEC.<br>
+📓 I'm studying Computer Engineering at the Federal Center for Technological Education.
 
 ## Olá, eu sou o Matheus!<br>
-👔 Atualmente trabalho com Construc 3 / Jogos 2D educacionais.<br>
-📓 Estou cursando engenharia de computação no Centro Federal de educação tecnologica.
+👔 Atualmente trabalho como Desenvolvedor Fullstack na EDUTEC.<br>
+📓 Estou cursando Engenharia de Computação no Centro Federal de Educação Tecnológica.
 
 <div>
     <a href="https://github.com/MatheusPatricioo/github-readme-stats">

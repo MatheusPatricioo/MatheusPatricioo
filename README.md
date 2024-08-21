@@ -16,7 +16,7 @@
 <div align="rightr">
     <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,php,laravel,react,html,css,js"/>
+    <img src="https://skillicons.dev/icons?i=c,php,laravel,react,html,css,js,unity"/>
   </a>
 </div>
 <br>

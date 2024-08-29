@@ -12,7 +12,14 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusPatricioo&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
  </div>
+<br>
 
+<div
+  <hr>  
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=MatheusPatricioo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 <div align="rightr">
     <br>
   <a href="https://skillicons.dev">
@@ -20,13 +27,6 @@
   </a>
 </div>
 <br>
-
-  <hr>  
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=MatheusPatricioo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-##
 
 <div>
   <a href = "mailto:matheuspatricio.aspx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

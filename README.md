@@ -21,6 +21,11 @@
 </div>
 <br>
 
+  <hr>  
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=MatheusPatricioo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
 ##
 
 <div>

@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusPatricioo&color=yellow" alt="Profile views" /> </p>
 
 👔 I currently work as a Fullstack Developer!<br>
-📓 I'm studying Computer Engineering at the Federal Center for Technological Education!
+📓 I'm studying Computer Engineering at the Federal Center for Technological Education!!!
 
 <div>
     <a href="https://github.com/MatheusPatricioo/github-readme-stats">

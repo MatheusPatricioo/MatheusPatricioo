@@ -4,6 +4,7 @@
 👔 I currently work as a Fullstack Developer!<br>
 📓 I'm studying Computer Engineering at the Federal Center for Technological Education!!!
 
+
 <div>
     <a href="https://github.com/MatheusPatricioo/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusPatricioo&theme=transparent" />
